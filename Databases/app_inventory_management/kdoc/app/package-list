@@ -1,0 +1,54 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.freeman_option1////PointingToDeclaration/app/com.example.freeman_option1/index.html
+$dokka.location:com.example.freeman_option1/AddItem///PointingToDeclaration/app/com.example.freeman_option1/-add-item/index.html
+$dokka.location:com.example.freeman_option1/AddItem/AddItem/#/PointingToDeclaration/app/com.example.freeman_option1/-add-item/-add-item.html
+$dokka.location:com.example.freeman_option1/AddItem/addItem/#/PointingToDeclaration/app/com.example.freeman_option1/-add-item/add-item.html
+$dokka.location:com.example.freeman_option1/AddItem/editTextItemCount/#/PointingToDeclaration/app/com.example.freeman_option1/-add-item/edit-text-item-count.html
+$dokka.location:com.example.freeman_option1/AddItem/editTextItemName/#/PointingToDeclaration/app/com.example.freeman_option1/-add-item/edit-text-item-name.html
+$dokka.location:com.example.freeman_option1/AddItem/goToGridViewLayout/#/PointingToDeclaration/app/com.example.freeman_option1/-add-item/go-to-grid-view-layout.html
+$dokka.location:com.example.freeman_option1/AddItem/inventoryDatabase/#/PointingToDeclaration/app/com.example.freeman_option1/-add-item/inventory-database.html
+$dokka.location:com.example.freeman_option1/GridViewLayout.Companion///PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/-companion/index.html
+$dokka.location:com.example.freeman_option1/GridViewLayout///PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/index.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/GridViewLayout/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/-grid-view-layout.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/goToAddItem/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/go-to-add-item.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/goToAppInfo/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/go-to-app-info.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/goToLoginScreen/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/go-to-login-screen.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/inventoryDatabase/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/inventory-database.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/inventoryItemAdapter/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/inventory-item-adapter.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/itemArrayList/#/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/item-array-list.html
+$dokka.location:com.example.freeman_option1/GridViewLayout/onRequestPermissionsResult/#kotlin.Int#kotlin.Array[kotlin.String]#kotlin.IntArray/PointingToDeclaration/app/com.example.freeman_option1/-grid-view-layout/on-request-permissions-result.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase.Companion///PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/-companion/index.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase///PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/index.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/InventoryDatabase/#android.content.Context?/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/-inventory-database.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/checkUsername/#kotlin.String/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/check-username.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/checkUsernameAndPassword/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/check-username-and-password.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/deleteItem/#kotlin.String/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/delete-item.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/insertItem/#kotlin.String?#kotlin.String?/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/insert-item.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/insertUser/#kotlin.String?#kotlin.String?/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/insert-user.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/listAllItems/#/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/list-all-items.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/onCreate/#android.database.sqlite.SQLiteDatabase/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/on-create.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/onUpgrade/#android.database.sqlite.SQLiteDatabase#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/on-upgrade.html
+$dokka.location:com.example.freeman_option1/InventoryDatabase/updateItemCount/#kotlin.String#kotlin.String?/PointingToDeclaration/app/com.example.freeman_option1/-inventory-database/update-item-count.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter.ViewHolder///PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/-view-holder/index.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter.ViewHolder/ViewHolder/#android.view.View/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/-view-holder/-view-holder.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter.ViewHolder/itemCountTextView/#/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/-view-holder/item-count-text-view.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter.ViewHolder/itemNameTextView/#/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/-view-holder/item-name-text-view.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter///PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/index.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter/InventoryItemAdapter/#java.util.ArrayList[com.example.freeman_option1.Item]#android.content.Context/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/-inventory-item-adapter.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter/database/#/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/database.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter/getItemCount/#/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/get-item-count.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter/onBindViewHolder/#com.example.freeman_option1.InventoryItemAdapter.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/on-bind-view-holder.html
+$dokka.location:com.example.freeman_option1/InventoryItemAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.freeman_option1/-inventory-item-adapter/on-create-view-holder.html
+$dokka.location:com.example.freeman_option1/Item///PointingToDeclaration/app/com.example.freeman_option1/-item/index.html
+$dokka.location:com.example.freeman_option1/Item/Item/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.freeman_option1/-item/-item.html
+$dokka.location:com.example.freeman_option1/Item/count/#/PointingToDeclaration/app/com.example.freeman_option1/-item/count.html
+$dokka.location:com.example.freeman_option1/Item/name/#/PointingToDeclaration/app/com.example.freeman_option1/-item/name.html
+$dokka.location:com.example.freeman_option1/MainActivity///PointingToDeclaration/app/com.example.freeman_option1/-main-activity/index.html
+$dokka.location:com.example.freeman_option1/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.freeman_option1/-main-activity/-main-activity.html
+$dokka.location:com.example.freeman_option1/MainActivity/goToSms/#/PointingToDeclaration/app/com.example.freeman_option1/-main-activity/go-to-sms.html
+$dokka.location:com.example.freeman_option1/SMSPermissionScreen///PointingToDeclaration/app/com.example.freeman_option1/-s-m-s-permission-screen/index.html
+$dokka.location:com.example.freeman_option1/SMSPermissionScreen/SMSPermissionScreen/#/PointingToDeclaration/app/com.example.freeman_option1/-s-m-s-permission-screen/-s-m-s-permission-screen.html
+$dokka.location:com.example.freeman_option1/SMSPermissionScreen/onClickSmsPermission/#android.view.View?/PointingToDeclaration/app/com.example.freeman_option1/-s-m-s-permission-screen/on-click-sms-permission.html
+com.example.freeman_option1
+
