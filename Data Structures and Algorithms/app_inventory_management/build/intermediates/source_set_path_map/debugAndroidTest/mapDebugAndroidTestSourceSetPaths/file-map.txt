@@ -1,6 +1,0 @@
-com.example.freeman_option1.test.app-annotation-experimental-1.4.0-0 C:\Users\rudyd\.gradle\caches\transforms-4\13afe983d42a0f378ae8c3448f1cced0\transformed\annotation-experimental-1.4.0\res
-com.example.freeman_option1.test.app-core-1.5.0-1 C:\Users\rudyd\.gradle\caches\transforms-4\992c2522435674435ccd879c1d219548\transformed\core-1.5.0\res
-com.example.freeman_option1.test.app-androidTest-2 D:\SNHU\CS-360\Final Project\FREEMANoption1\app\build\generated\res\resValues\androidTest\debug
-com.example.freeman_option1.test.app-mergeDebugAndroidTestResources-3 D:\SNHU\CS-360\Final Project\FREEMANoption1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.freeman_option1.test.app-mergeDebugAndroidTestResources-4 D:\SNHU\CS-360\Final Project\FREEMANoption1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.freeman_option1.test.app-debugAndroidTest-5 D:\SNHU\CS-360\Final Project\FREEMANoption1\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

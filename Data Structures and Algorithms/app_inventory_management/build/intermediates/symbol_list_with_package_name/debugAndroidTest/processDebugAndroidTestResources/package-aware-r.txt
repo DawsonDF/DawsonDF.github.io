@@ -1,3 +1,0 @@
-com.example.freeman_option1.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
