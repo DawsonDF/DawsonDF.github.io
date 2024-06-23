@@ -41,7 +41,7 @@ There are several things I learned about the Kotlin programming language while m
 
 ### How did I meet this requirement?
 
-By rewriting this application in the standard programming language for Android Development, this allows a more collaborative environment by adopting a more common practice. By continuing to use Java, I am limiting the number of developers that will be willing to contribute to the project. Another way I have achieved this is by creating documentation using KDOCS for the application. Here is the link for KDOCS in my repo. https://github.com/DawsonDF/DawsonDF.github.io/tree/main/Final-Product/app_inventory_management/kdoc
+By rewriting this application in the standard programming language for Android Development, this allows a more collaborative environment by adopting a more common practice. By continuing to use Java, I am limiting the number of developers that will be willing to contribute to the project. Another way I have achieved this is by creating documentation using KDOCS for the application. Here is the link for KDOCS in my repo. https://github.com/DawsonDF/DawsonDF.github.io/tree/main/Databases/app_inventory_management/kdoc/app/com.example.freeman_option1
 
 - Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 
